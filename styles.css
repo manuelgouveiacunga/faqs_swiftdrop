@@ -1,0 +1,17 @@
+.faq-item {
+    transition: all 0.3s ease;
+}
+.faq-item:hover {
+    transform: translateY(-3px);
+    box-shadow: 0 10px 20px rgba(0,0,0,0.1);
+}
+.language-selector {
+    transition: all 0.2s ease;
+}
+.language-selector:hover {
+    transform: scale(1.05);
+}
+.active-language {
+    border-bottom: 3px solid #3b82f6;
+    font-weight: 600;
+}
