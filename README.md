@@ -1,1 +1,45 @@
-# faqs_swiftdrop
+📦 SwiftDrop – FAQs
+
+Este repositório contém as **Perguntas Frequentes (FAQs)** relacionadas ao projeto **SwiftDrop**, uma solução de **gerenciamento e automação de entregas rápidas**, focada em **eficiência**, **praticidade** e **facilidade de uso**.
+
+🚀 O objetivo deste repositório é servir como **template** e **ponto de partida** para desenvolvedores que queiram:
+
+* 📖 Consultar dúvidas comuns sobre o projeto.
+* 🤝 Contribuir com melhorias.
+* 💡 Se inspirar para estruturar FAQs em seus próprios projetos.
+
+## 🛠️ Tasks usadas
+
+O projeto SwiftDrop utiliza as seguintes tecnologias no seu desenvolvimento:
+
+* 🌐 **HTML5** – estrutura da aplicação
+* 🎨 **CSS3** – estilização base
+* 🎨 **TailwindCSS** – estilização rápida e responsiva
+* ⚡ **JavaScript (ES6+)** – funcionalidades dinâmicas
+* ⚛️ **React.js** – construção de componentes e interface moderna
+
+## 📂 Conteúdo
+
+* ❓ **Funcionalidades** – perguntas frequentes sobre como o SwiftDrop funciona.
+* ⚙️ **Dúvidas técnicas e integração** – suporte para desenvolvedores e APIs.
+* 🛠 **Contribuição** – como você pode ajudar a melhorar este projeto.
+* 📬 **Suporte e contato** – onde tirar dúvidas mais específicas.
+
+## 💡 Como contribuir
+
+Quer deixar este repositório ainda melhor? Siga os passos abaixo:
+
+1. **Fork** do repositório.
+2. Crie uma **branch** para sua contribuição.
+
+   ```bash
+   git checkout -b minha-contribuicao
+   ```
+3. Faça suas alterações (pode ser correção, melhoria ou nova FAQ).
+4. Envie um **pull request** 🚀.
+
+
+## ✨ Observação
+
+Este repositório é um **template aberto** – sinta-se à vontade para **se inspirar** e usar em seus próprios projetos.
+Toda contribuição é bem-vinda: desde ajustes simples até novas ideias para FAQs.
